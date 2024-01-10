@@ -30,10 +30,6 @@ title="IntelliJ">
 width="32"
 height="32"
 title="Eclipse">
-<img src="img\ide\vim.png"
-width="32"
-height="32"
-title="Vim">
 
 ### LENGUAGES
 <img src="img\pl\python.png"
