@@ -132,6 +132,6 @@ height="32"
 title="Burpsuit">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarovelascoprieto&show_icons=true&locale=en&layout=compact" alt="alvarovelascoprieto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarovelascoprieto&show_icons=true&locale=en" alt="alvarovelascoprieto" /></p>
+<p><img style="width:30%;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarovelascoprieto&show_icons=true&locale=en&layout=compact" alt="alvarovelascoprieto" /></p>
+<p><img style="width:30%;" align="left" src="https://github-readme-stats.vercel.app/api?username=alvarovelascoprieto&show_icons=true&locale=en" alt="alvarovelascoprieto" /></p>
+<p><img style="width:30%;" align="left" src="https://leetcard.jacoblin.cool/AlvaroVelascoPrieto?theme=light&font=Arimo&ext=activity" alt="alvarovelascoprieto" /></p>
